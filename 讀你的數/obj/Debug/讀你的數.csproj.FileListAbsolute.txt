@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\讀你的數\讀你的數\bin\Debug\讀你的數.exe.config
+C:\Users\User\Desktop\讀你的數\讀你的數\bin\Debug\讀你的數.exe
+C:\Users\User\Desktop\讀你的數\讀你的數\bin\Debug\讀你的數.pdb
+C:\Users\User\Desktop\讀你的數\讀你的數\obj\Debug\讀你的數.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\讀你的數\讀你的數\obj\Debug\讀你的數.Form1.resources
+C:\Users\User\Desktop\讀你的數\讀你的數\obj\Debug\讀你的數.Properties.Resources.resources
+C:\Users\User\Desktop\讀你的數\讀你的數\obj\Debug\讀你的數.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\讀你的數\讀你的數\obj\Debug\讀你的數.exe
+C:\Users\User\Desktop\讀你的數\讀你的數\obj\Debug\讀你的數.pdb
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.exe.config
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.exe
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.pdb
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.exe
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.pdb
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.csprojResolveAssemblyReference.cache
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.Form1.resources
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.Properties.Resources.resources
+D:\Google硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.exe.config
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.exe
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.pdb
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.Form1.resources
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.Properties.Resources.resources
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.exe
+D:\Google 雲端硬碟\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.pdb
+D:\Google硬碟\小宇小遊戲 (1)\讀你的數\讀你的數\bin\Debug\讀你的數.exe.config
+D:\Google硬碟\小宇小遊戲 (1)\讀你的數\讀你的數\obj\Debug\讀你的數.exe
+D:\Google硬碟\小宇小遊戲 (1)\讀你的數\讀你的數\obj\Debug\讀你的數.pdb
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.exe.config
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.exe
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\bin\Debug\讀你的數.pdb
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.csprojResolveAssemblyReference.cache
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.Form1.resources
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.Properties.Resources.resources
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.csproj.GenerateResource.Cache
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.csproj.CoreCompileInputs.cache
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.exe
+C:\User_D\Program\小宇酷炫程式集 C#\小宇小遊戲\讀你的數\讀你的數\obj\Debug\讀你的數.pdb
